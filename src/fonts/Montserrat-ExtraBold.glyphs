@@ -22046,7 +22046,7 @@ name = g.sc;
 },
 {
 name = strokeshortcomb;
-transform = "{0, 0, 0, 0, 755, -139}";
+transform = "{0.1, 0, 0, 0.1, 755, -139}";
 }
 );
 layerId = "F251586D-48D7-42AD-80B6-8A992ABEF986";
@@ -27898,7 +27898,7 @@ name = g.sc.ss01;
 },
 {
 name = strokeshortcomb;
-transform = "{0, 0, 0, 0, 755, -139}";
+transform = "{0.1, 0, 0, 0.1, 755, -139}";
 }
 );
 layerId = "F251586D-48D7-42AD-80B6-8A992ABEF986";
